@@ -1,0 +1,34 @@
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\bin\Debug\Election System.exe.config
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election System.vbproj.ResolveComReference.cache
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\bin\Debug\Election System.exe
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\bin\Debug\Election System.pdb
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\bin\Debug\Election System.xml
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Resources.resources
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election System.vbproj.GenerateResource.Cache
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election System.exe
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election System.xml
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election System.pdb
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Loginfrm.resources
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Mainfrm.resources
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Votingfrm.resources
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Candidatefrm.resources
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Student.resources
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Voting.resources
+C:\Users\zeth kenneth pungtod\Desktop\Election System\Election System\obj\Debug\Election.Result.resources
+D:\Election System\Election System\bin\Debug\Election System.exe.config
+D:\Election System\Election System\obj\Debug\Election System.vbproj.ResolveComReference.cache
+D:\Election System\Election System\obj\Debug\Election System.exe
+D:\Election System\Election System\obj\Debug\Election System.xml
+D:\Election System\Election System\obj\Debug\Election System.pdb
+D:\Election System\Election System\bin\Debug\Election System.exe
+D:\Election System\Election System\bin\Debug\Election System.pdb
+D:\Election System\Election System\bin\Debug\Election System.xml
+D:\Election System\Election System\obj\Debug\Election.Result.resources
+D:\Election System\Election System\obj\Debug\Election.Student.resources
+D:\Election System\Election System\obj\Debug\Election.Voting.resources
+D:\Election System\Election System\obj\Debug\Election.Loginfrm.resources
+D:\Election System\Election System\obj\Debug\Election.Mainfrm.resources
+D:\Election System\Election System\obj\Debug\Election.Votingfrm.resources
+D:\Election System\Election System\obj\Debug\Election.Candidatefrm.resources
+D:\Election System\Election System\obj\Debug\Election.Resources.resources
+D:\Election System\Election System\obj\Debug\Election System.vbproj.GenerateResource.Cache
